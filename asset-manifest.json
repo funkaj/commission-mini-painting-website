@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/funk.ink/static/css/main.073c9b0a.css",
-    "main.js": "/funk.ink/static/js/main.652022c1.js",
-    "static/js/787.f42209b9.chunk.js": "/funk.ink/static/js/787.f42209b9.chunk.js",
-    "static/media/logo.svg": "/funk.ink/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/funk.ink/index.html",
-    "main.073c9b0a.css.map": "/funk.ink/static/css/main.073c9b0a.css.map",
-    "main.652022c1.js.map": "/funk.ink/static/js/main.652022c1.js.map",
-    "787.f42209b9.chunk.js.map": "/funk.ink/static/js/787.f42209b9.chunk.js.map"
+    "main.css": "/commission-mini-painting-website/static/css/main.073c9b0a.css",
+    "main.js": "/commission-mini-painting-website/static/js/main.5682c51a.js",
+    "static/js/787.f42209b9.chunk.js": "/commission-mini-painting-website/static/js/787.f42209b9.chunk.js",
+    "static/media/logo.svg": "/commission-mini-painting-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/commission-mini-painting-website/index.html",
+    "main.073c9b0a.css.map": "/commission-mini-painting-website/static/css/main.073c9b0a.css.map",
+    "main.5682c51a.js.map": "/commission-mini-painting-website/static/js/main.5682c51a.js.map",
+    "787.f42209b9.chunk.js.map": "/commission-mini-painting-website/static/js/787.f42209b9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.652022c1.js"
+    "static/js/main.5682c51a.js"
   ]
 }
